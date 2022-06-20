@@ -10,7 +10,7 @@ This repository  contain the microservice developed the following technologies :
 
 
 ### izicap_homework-dockerize
- To run the image o this project :
+ To run the image o this project localy using the docker image :
  #### 1)-Build Docker Image 
  `docker build -t izicap_homework-docker.jar .`
  #### 2)-Check Docker Image
