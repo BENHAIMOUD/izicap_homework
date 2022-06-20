@@ -3,7 +3,7 @@ This repository  contain the microservice developed the following technologies :
  `Java: Spring Cloud Spring boot, JPA, RestAPI`
  `Docker`
  
-# RAIN APPLICATION 
+## RAIN THE APPLICATION 
  To extract Data Company from the API :http://localhost:8080/company-infos/<VOTRE_SIRET><br/>
  To download the Data extract as CSV file :http://localhost:8080/company-infos/download
  
@@ -17,3 +17,4 @@ This repository  contain the microservice developed the following technologies :
  `docker image ls`
  #### 3)-Check Docker Image
  `docker run -p 9090:8080 izicap_homework-docker.jar`
+ In the run command, we have specified that the port 8080 on the container should be mapped to the port 9090 on the Host OS.
