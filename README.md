@@ -4,7 +4,7 @@ This repository  contain the microservice developed the following technologies :
  `Docker`
  
 ## RAIN THE APPLICATION 
- To extract Data Company from the API :http://localhost:8080/company-infos/<VOTRE_SIRET><br/>
+ To extract Data Company from the API :http://localhost:8080/company-infos/<Votre_SIRET><br/>
  To download the Data extract as CSV file :http://localhost:8080/company-infos/download
  
 
