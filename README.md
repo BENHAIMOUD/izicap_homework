@@ -1,6 +1,6 @@
 # izicap_homework
 This repository  contain the microservice developed the following technologies :
- `Java: Spring Cloud Spring boot, JPA, RestAPI`
+ `Java: Spring cloud, Spring boot, JPA, RestAPI`
  `Docker`
  
 ## RAIN THE APPLICATION 
@@ -16,5 +16,5 @@ This repository  contain the microservice developed the following technologies :
  #### 2)-Check Docker Image
  `docker image ls`
  #### 3)-Check Docker Image
- `docker run -p 9090:8080 izicap_homework-docker.jar`
+ `docker run -p 9090:8080 izicap_homework-docker.jar`<br/>
  In the run command, we have specified that the port 8080 on the container should be mapped to the port 9090 on the Host OS.
